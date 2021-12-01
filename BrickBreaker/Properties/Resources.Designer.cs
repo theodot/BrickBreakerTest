@@ -196,6 +196,16 @@ namespace BrickBreaker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap kart {
+            get {
+                object obj = ResourceManager.GetObject("kart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap LebronBackground {
             get {
                 object obj = ResourceManager.GetObject("LebronBackground", resourceCulture);
@@ -244,7 +254,9 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;4&lt;/colour&gt;
         ///    &lt;type&gt;0&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;br [rest of string was truncated]&quot;;.
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;149&lt;/x&gt;
+        ///    &lt;y&gt;123 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level1 {
             get {
@@ -283,7 +295,9 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;1&lt;/colour&gt;
         ///    &lt;type&gt;1&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;br [rest of string was truncated]&quot;;.
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;174&lt;/x&gt;
+        ///    &lt;y&gt;153 [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level2 {
             get {
@@ -322,7 +336,9 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;1&lt;/colour&gt;
         ///    &lt;type&gt;1&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;brick&gt; [rest of string was truncated]&quot;;.
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;238&lt;/x&gt;
+        ///    &lt;y&gt;105&lt;/y&gt; [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level3 {
             get {
