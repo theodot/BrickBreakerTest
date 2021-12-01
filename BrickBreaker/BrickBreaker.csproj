@@ -171,6 +171,7 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
+    <None Include="Resources\starMario.jpg" />
     <None Include="Resources\Super Mario Bros. - 1-UP Mushroom Sound Effect.wav" />
     <None Include="Resources\Super Mario Bros. - Mushroom Sound Effect.wav" />
     <None Include="Resources\Super Mario Land PowerUp Sound Effect [Free Ringtone Download].wav" />

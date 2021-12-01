@@ -42,7 +42,7 @@ namespace BrickBreaker
         //image arrays
 
         public static Image[] powerUpImages = { BrickBreaker.Properties.Resources.mario, BrickBreaker.Properties.Resources.Super_Star, BrickBreaker.Properties.Resources.Double_Cherry, BrickBreaker.Properties.Resources.Super_Mushroom, BrickBreaker.Properties.Resources.Mini_Mushroom, Properties.Resources.kart };
-        public static Image[] brickImages = { BrickBreaker.Properties.Resources.Brick_Question, BrickBreaker.Properties.Resources.Brick_1hp, BrickBreaker.Properties.Resources.Brick_2hp, BrickBreaker.Properties.Resources.Brick_3hp, BrickBreaker.Properties.Resources.Brick_4hp, BrickBreaker.Properties.Resources.Brick_5hp };
+        public static Image[] brickImages = { Properties.Resources.starMario, BrickBreaker.Properties.Resources.Brick_Question, BrickBreaker.Properties.Resources.Brick_1hp, BrickBreaker.Properties.Resources.Brick_2hp, BrickBreaker.Properties.Resources.Brick_3hp, BrickBreaker.Properties.Resources.Brick_4hp, BrickBreaker.Properties.Resources.Brick_5hp };
         public static Image rainbow = BrickBreaker.Properties.Resources.rainbow_effect2;
 
         // Brushes
