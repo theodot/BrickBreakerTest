@@ -180,6 +180,7 @@
     <None Include="Resources\dababyBackground.png" />
     <None Include="Resources\LebronBackground.png" />
     <None Include="Resources\kart.jpg" />
+    <None Include="Resources\balloon.jpg" />
     <Content Include="Resources\mainbackground.png" />
     <None Include="Resources\MarioBackground.png" />
     <None Include="Resources\mario.png" />
