@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>BrickBreaker</RootNamespace>
     <AssemblyName>BrickBreaker</AssemblyName>
-    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <PublishUrl>publish\</PublishUrl>
     <Install>true</Install>
@@ -181,6 +181,7 @@
     <None Include="Resources\LebronBackground.png" />
     <Content Include="Resources\mainbackground.png" />
     <None Include="Resources\MarioBackground.png" />
+    <None Include="Resources\mario.png" />
     <Content Include="Resources\MarioStand.png" />
     <None Include="Resources\New Super Mario Bros. Wii - Mini Mushroom Sound Effect.wav" />
     <Content Include="Resources\realbubble.png" />
