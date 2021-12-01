@@ -163,9 +163,9 @@ namespace BrickBreaker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Fire_Flower {
+        internal static System.Drawing.Bitmap fire {
             get {
-                object obj = ResourceManager.GetObject("Fire_Flower", resourceCulture);
+                object obj = ResourceManager.GetObject("fire", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace BrickBreaker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fireball {
+        internal static System.Drawing.Bitmap Fire_Flower {
             get {
-                object obj = ResourceManager.GetObject("fireball", resourceCulture);
+                object obj = ResourceManager.GetObject("Fire_Flower", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
