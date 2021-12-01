@@ -179,6 +179,7 @@
     <None Include="Resources\1Up_Mushroom.png" />
     <None Include="Resources\dababyBackground.png" />
     <None Include="Resources\LebronBackground.png" />
+    <None Include="Resources\kart.jpg" />
     <Content Include="Resources\mainbackground.png" />
     <None Include="Resources\MarioBackground.png" />
     <None Include="Resources\mario.png" />
