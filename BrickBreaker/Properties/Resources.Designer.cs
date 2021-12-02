@@ -19,7 +19,7 @@ namespace BrickBreaker.Properties {
     // class via a tool like ResGen or Visual Studio.
     // To add or remove a member, edit your .ResX file then rerun ResGen
     // with the /str option, or rebuild your VS project.
-    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "17.0.0.0")]
+    [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Resources.Tools.StronglyTypedResourceBuilder", "16.0.0.0")]
     [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     internal class Resources {
@@ -163,9 +163,9 @@ namespace BrickBreaker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap fire {
+        internal static System.Drawing.Bitmap Fire_Flower {
             get {
-                object obj = ResourceManager.GetObject("fire", resourceCulture);
+                object obj = ResourceManager.GetObject("Fire_Flower", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -173,9 +173,9 @@ namespace BrickBreaker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Fire_Flower {
+        internal static System.Drawing.Bitmap fireball {
             get {
-                object obj = ResourceManager.GetObject("Fire_Flower", resourceCulture);
+                object obj = ResourceManager.GetObject("fireball", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -264,9 +264,7 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;4&lt;/colour&gt;
         ///    &lt;type&gt;0&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;brick&gt;
-        ///    &lt;x&gt;149&lt;/x&gt;
-        ///    &lt;y&gt;123 [rest of string was truncated]&quot;;.
+        ///  &lt;br [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level1 {
             get {
@@ -305,9 +303,7 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;1&lt;/colour&gt;
         ///    &lt;type&gt;1&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;brick&gt;
-        ///    &lt;x&gt;174&lt;/x&gt;
-        ///    &lt;y&gt;153 [rest of string was truncated]&quot;;.
+        ///  &lt;br [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level2 {
             get {
@@ -346,9 +342,7 @@ namespace BrickBreaker.Properties {
         ///    &lt;colour&gt;1&lt;/colour&gt;
         ///    &lt;type&gt;1&lt;/type&gt;
         ///  &lt;/brick&gt;
-        ///  &lt;brick&gt;
-        ///    &lt;x&gt;238&lt;/x&gt;
-        ///    &lt;y&gt;105&lt;/y&gt; [rest of string was truncated]&quot;;.
+        ///  &lt;brick&gt; [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string level3 {
             get {
